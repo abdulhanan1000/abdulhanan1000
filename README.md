@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**abdulhanan1000/abdulhanan1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abdul Hanan
 
-Here are some ideas to get you started:
+**Full-Stack Developer | Always Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulhanan1000)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulhananjavaid.com)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 📊 Personal Projects
+### [@abdulhanan1000](https://github.com/abdulhanan1000)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhanan1000&theme=tokyonight)
+
+<br>
+
+---
+
+<br>
+
+## 💼 Professional Work
+### [@HananDeeplify](https://github.com/HananDeeplify)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HananDeeplify&theme=tokyonight)
+
+<br>
+
+---
+
+<div align="center">
+
+<br>
+
+*Crafting code, one commit at a time* ✨
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=abdulhanan1000&color=blueviolet&style=flat-square)
+
+</div>
