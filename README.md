@@ -2,7 +2,7 @@
 
 # Abdul Hanan
 
-**Full-Stack Developer | Always Learning**
+**Full-Stack Developer**
 
 <br>
 
