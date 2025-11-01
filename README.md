@@ -53,7 +53,7 @@
 
 <br>
 
-## 📊 Personal Projects
+## 📊 Personal Work
 
 ### [@abdulhanan1000](https://github.com/abdulhanan1000)
 
