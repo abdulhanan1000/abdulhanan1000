@@ -20,11 +20,11 @@
 ## 📊 Personal Projects
 ### [@abdulhanan1000](https://github.com/abdulhanan1000)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhanan1000&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhanan1000&theme=2077)
 
 <br>
-
----
+<img src="https://github-profile-trophy.vercel.app/?username=abdulhanan1000&theme=dracula&row=1&column=6" alt="abdulhanan1000 trophies"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulhanan1000&theme=2077" alt="Top languages by repo badge"/>
 
 <br>
 
@@ -36,7 +36,6 @@
 
 <br>
 
----
 
 <div align="center">
 
