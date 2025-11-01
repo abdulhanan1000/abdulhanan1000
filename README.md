@@ -6,8 +6,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulhanan1000)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulhananjavaid.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/abdulhanan1000)
+[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=E84393)](https://abdulhananjavaid.com)
 
 </div>
 
@@ -18,7 +18,9 @@
 <br>
 
 ## 🎨 Featured Projects
+
 <div align="center">
+
 <table>
 <tr>
 <td width="33%"><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/designsiq1.png" width="100%"/></td>
@@ -46,8 +48,6 @@
 <td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/designsiq2.png" width="100%"/></td>
 </tr>
 </table>
-</div>
-<br>
 
 </div>
 
