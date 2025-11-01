@@ -1,0 +1,144 @@
+<svg width="1000" height="180" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- Define all images -->
+    <image id="img1" href="https://abdulhananjavaid.com/images/designsiq1.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img2" href="https://abdulhananjavaid.com/images/dashgram.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img3" href="https://abdulhananjavaid.com/images/gcharts.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img4" href="https://abdulhananjavaid.com/images/cryptodashboard.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img5" href="https://abdulhananjavaid.com/images/aexcelite.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img6" href="https://abdulhananjavaid.com/images/stockcryptoanalytics2.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img7" href="https://abdulhananjavaid.com/images/stockcryptoanalytics.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img8" href="https://abdulhananjavaid.com/images/lottery.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img9" href="https://abdulhananjavaid.com/images/tokenmultisender.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img10" href="https://abdulhananjavaid.com/images/presale.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img11" href="https://abdulhananjavaid.com/images/scenebox2.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img12" href="https://abdulhananjavaid.com/images/scenebox.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img13" href="https://abdulhananjavaid.com/images/websitesiq.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img14" href="https://abdulhananjavaid.com/images/blockchainpets.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    <image id="img15" href="https://abdulhananjavaid.com/images/designsiq2.png" width="320" height="180" preserveAspectRatio="xMidYMid slice"/>
+    
+    <!-- Clip path -->
+    <clipPath id="clip">
+      <rect width="1000" height="180"/>
+    </clipPath>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1000" height="180" fill="#0d1117"/>
+  
+  <!-- Scrolling container -->
+  <g clip-path="url(#clip)">
+    <!-- First loop -->
+    <g>
+      <use href="#img1" x="0" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img2" x="340" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img3" x="680" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img4" x="1020" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img5" x="1360" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img6" x="1700" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img7" x="2040" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img8" x="2380" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img9" x="2720" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img10" x="3060" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img11" x="3400" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img12" x="3740" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img13" x="4080" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img14" x="4420" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img15" x="4760" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+    </g>
+    
+    <!-- Second loop for seamless repetition -->
+    <g>
+      <use href="#img1" x="5100" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img2" x="5440" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img3" x="5780" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img4" x="6120" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img5" x="6460" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img6" x="6800" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img7" x="7140" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img8" x="7480" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img9" x="7820" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img10" x="8160" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img11" x="8500" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img12" x="8840" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img13" x="9180" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img14" x="9520" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+      <use href="#img15" x="9860" y="0">
+        <animateTransform attributeName="transform" type="translate" values="0,0; -5070,0" dur="60s" repeatCount="indefinite"/>
+      </use>
+    </g>
+  </g>
+  
+  <!-- Fade overlays -->
+  <defs>
+    <linearGradient id="fadeLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient id="fadeRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:0" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="60" height="180" fill="url(#fadeLeft)"/>
+  <rect x="940" width="60" height="180" fill="url(#fadeRight)"/>
+</svg>
