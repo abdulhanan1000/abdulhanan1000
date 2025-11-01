@@ -60,7 +60,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhanan1000&theme=2077)
 
 <img src="https://github-profile-trophy.vercel.app/?username=abdulhanan1000&theme=radical&row=1&column=6&no-frame=true" alt="abdulhanan1000 trophies"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulhanan1000&theme=2077" alt="Top languages by repo badge"/>
 
 <br>
 
