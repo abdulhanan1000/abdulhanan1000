@@ -18,10 +18,36 @@
 <br>
 
 ## 🎨 Featured Projects
-
 <div align="center">
-
-<img src="./carousel.svg" alt="Projects Carousel" width="1000"/>
+<table>
+<tr>
+<td width="33%"><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/designsiq1.png" width="100%"/></td>
+<td width="33%"><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/dashgram.png" width="100%"/></td>
+<td width="33%"><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/gcharts.png" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/cryptodashboard.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/aexcelite.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/stockcryptoanalytics2.png" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/stockcryptoanalytics.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/lottery.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/tokenmultisender.png" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/presale.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/scenebox2.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/scenebox.png" width="100%"/></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/websitesiq.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/blockchainpets.png" width="100%"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulhanan1000/abdulhanan1000/main/images/designsiq2.png" width="100%"/></td>
+</tr>
+</table>
+</div>
+<br>
 
 </div>
 
