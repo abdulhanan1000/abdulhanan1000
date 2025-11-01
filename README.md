@@ -22,8 +22,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhanan1000&theme=2077)
 
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=abdulhanan1000&theme=radical&row=1&column=6" alt="abdulhanan1000 trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abdulhanan1000&theme=radical&row=1&column=6&no-frame=true" alt="abdulhanan1000 trophies"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulhanan1000&theme=2077" alt="Top languages by repo badge"/>
 
 <br>
@@ -32,7 +31,7 @@
 ### [@HananDeeplify](https://github.com/HananDeeplify)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HananDeeplify&theme=tokyonight)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanandeeplify&theme=github_dark" alt="Profile details badge"/>
 
 <br>
 
